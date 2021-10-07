@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sssmudge
+- 👋 Hi, I’m @kanescottlinehan
 - 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning HTML, CSS & Java
 - 💞️ I’m looking to collaborate on snacks
